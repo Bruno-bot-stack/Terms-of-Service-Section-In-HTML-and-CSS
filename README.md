@@ -1,2 +1,2 @@
-# Terms-of-Service-Section-In-HTML-and-CSS
+>_ Terms-of-Service-Section-In-HTML-and-CSS:Disabled
 Terms of Service Section In HTML and CSS
